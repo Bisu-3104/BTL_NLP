@@ -1,6 +1,6 @@
 # BTL_NLP
 
-# 🧠 Ứng dụng Mô hình Vector Space Model và BERT trong Truy Vấn Thông Tin
+# 🧠 ng Dụng Mô Hình Vector Space Model Và BERT Trong Việc Truy Vấn Thông Tin Câu Hỏi
 
 ## 📌 Giới thiệu
 

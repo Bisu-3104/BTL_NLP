@@ -1,0 +1,9 @@
+nltk
+spacy
+numpy
+
+sentence-transformers
+torch
+
+
+

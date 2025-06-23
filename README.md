@@ -16,14 +16,9 @@ Bài toán đặt ra: Trả về các đoạn văn bản phù hợp nhất với
 ## 📁 Cấu trúc thư mục
 - ├── Data/ # Dữ liệu đầu vào (MS MARCO)
 - ├── Code/ # Triển khai mô hình
-- ├── Report/ # Báo cáo kết 
+- ├── Report/ # Báo cáo kết quả
 - ├── README.md # Tài liệu mô tả repo
 - └── requirements.txt # Các thư viện cần thiết
 
-## 🔍 Các Bước Tiền xử lý
-Các bước áp dụng:
-- Chuyển lowercase
-- Loại bỏ dấu câu và ký tự đặc biệt
-- Tokenization
-- Stopword Removal
-- Porter Stemming (cho VSM)
+## 🔍 Các Bước Tiền xử lý và kết quả có thể xem trong phần Report
+

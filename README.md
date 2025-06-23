@@ -22,7 +22,7 @@ Bài toán đặt ra: Trả về các đoạn văn bản phù hợp nhất với
 
 ## 🔍 Tiền xử lý
 Các bước áp dụng:
--Chuyển lowercase
+- Chuyển lowercase
 - Loại bỏ dấu câu và ký tự đặc biệt
 - Tokenization
 - Stopword Removal

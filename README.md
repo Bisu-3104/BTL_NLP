@@ -17,8 +17,11 @@ Bài toán đặt ra: Trả về các đoạn văn bản phù hợp nhất với
 - ├── Data/ # Dữ liệu đầu vào (MS MARCO)
 - ├── Code/ # Triển khai mô hình
 - ├── Report/ # Báo cáo kết quả
+- ├── Demo/ # Demo chương trình
 - ├── README.md # Tài liệu mô tả repo
 - └── requirements.txt # Các thư viện cần thiết
 
 ## 🔍 Các Bước Tiền xử lý và kết quả có thể xem trong phần Report
-
+## Phần chạy demo
+- Tải file app.py từ Thư mục demo
+- Sử dụng câu lệnh 'python -m streamlit run app.py' để chạy demo và thử nghiệm
